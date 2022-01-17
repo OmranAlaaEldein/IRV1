@@ -1,0 +1,17 @@
+By Basic Index ....	
+	
+Ranked by (Sum Of TF-IDF) Method?	
+[29, 28, 27, 26, 24, 23, 22, 21, 19, 18, 17, 16, 14, 13, 12, 11, 9, 8, 7, 6, 4, 3, 2, 1]	
+Ranked by (Frequency Using Vector Space) Method?	
+[29, 28, 27, 26, 24, 23, 22, 21, 19, 18, 17, 16, 14, 13, 12, 11, 9, 8, 7, 6, 4, 3, 2, 1]	
+Ranked by (TF-IDF Using Vector Space) Method?	
+[29, 28, 27, 26, 24, 23, 22, 21, 19, 18, 17, 16, 14, 13, 12, 11, 9, 8, 7, 6, 4, 3, 2, 1]	
+
+By Qgram Index ....	
+	
+Ranked by (Sum Of TF-IDF) Method?	
+[27, 26, 22, 21, 17, 16, 7, 6, 2, 1, 14, 13, 12, 11]	
+Ranked by (Frequency Using Vector Space) Method?	
+[27, 26, 22, 21, 17, 16, 7, 6, 2, 1, 14, 13, 12, 11]	
+Ranked by (TF-IDF Using Vector Space) Method?	
+[27, 26, 22, 21, 17, 16, 7, 6, 2, 1, 14, 13, 12, 11]	
